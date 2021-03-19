@@ -2,6 +2,10 @@
 
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
 
+## Live Site
+
+Click here to [Live Site](https://faq-accordion-roan.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
